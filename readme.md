@@ -1,3 +1,10 @@
+# Deprecated Neovim Configuration
+
+This Neovim configuration repository is deprecated. For an enhanced and more feature-rich Neovim experience, please check out my new configuration:
+
+[Personal Neovim Configuration](https://github.com/dityaren/nvim)
+
+
 # Neovim Dotfiles Configuration (Lua-based)
 
 This repository contains my personal Neovim configuration.
